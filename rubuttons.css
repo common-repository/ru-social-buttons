@@ -1,0 +1,25 @@
+/*
+    Document   : rubuttons
+    Created on : 14.08.2010, 21:53:02
+    Author     : alex
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+.cb_lcol {clear:both; width: 443px; padding: 6px 5px 10px 10px; background-color:#ddddff;}
+.cb_lcol .cb_services {clear:both; display:block; border-bottom: 1px solid #B8B8B8;}
+.cb_lcol .cb_services .cb_services-all {clear:both; height: 1%;}
+.cb_lcol .cb_services .cb_services-all .cb_item {float:left; padding: 6px 8px 6px 0px;}
+.cb_lcol .cb_services .cb_services-all .cb_itemtop {float:left; padding: 6px 8px 6px 0px; position: relative; top: -2px;}
+.cb_lcol .cb_services .cb_services-all .cb_itemright {float:left; padding: 6px 0px 6px 0px;}
+.cb_itemtop td {padding:0px;}
+.cb_itemtop table {padding: 0px 0px 0px 0px;}
+
+
+.intext {padding: 0px 0px 6px 0px; color: #000077; font-size: 11px;}
+.backlink {clear:both;padding: 0px 10px 0px 0px; color: #000077; font-size: 8px; text-align: right;}
